@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gvieira-dutra
+- 👀 I’m interested in programming and learning
+- 🌱 I’m currently learning how to build full stack applications
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 You can reach me at linkedin.com/in/gleisond/
