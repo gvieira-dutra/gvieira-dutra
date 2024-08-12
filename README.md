@@ -1,8 +1,9 @@
-Hey there! 👋 Gleison here, an eager learner currently studying Computer Programming and Analysis. 🧑‍🎓 
+Hey there! 👋
 
-I have a diverse skill set, including programming in C#, C++, SQL, JavaScript, and Python. Additionally, I have experience in Sales, People Management, and Construction. I'm also building knowledge in machine learning, system analysis, and exploring Next.js to boost my web development abilities. 💻
+I’m Gleison, a passionate learner on the journey to becoming a Senior Software Engineer specializing in C# within the .NET framework. My skill set spans C#, C++, SQL, JavaScript, and some Python, complemented by experience in Sales, People Management, and Construction.
 
-In my free time, I enjoy staying active outdoors whether it's running, hiking, or taking my dog for a walk. I'm a lifelong learner, always seeking new skills and experiences, from gardening to playing guitar 🎸 and martial arts. 
+Logic fuels my passion for development. I love watching systems interact and come to life as complete applications. When I’m not coding, you’ll find me staying active outdoors—whether it's running, hiking, or walking my dog.
 
-Feel free to connect for any colabs. 
-📫 You can reach me at linkedin.com/in/gleisond/
+I’m open to collaborations and connections, so feel free to reach out!
+
+📫 Connect with me on LinkedIn: [linkedin.com/in/gleisond/](https://linkedin.com/in/gleisond/)
