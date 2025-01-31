@@ -6,8 +6,8 @@ Logic fuels my passion for development. I love watching systems interact and com
 
 I’m open to collaborations and connections, so feel free to reach out!
 
-[![Gleison's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvieira-dutra&show_icons=true&theme=radical)](https://github.com/gvieira-dutra/github-readme-stats)
+[![Gleison's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvieira-dutra&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvieira-dutra&show_icons=true&theme=radical)](https://github.com/gvieira-dutra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvieira-dutra&show_icons=true&theme=radical)]
 
 📫 Connect with me on LinkedIn: [linkedin.com/in/gleisond/](https://linkedin.com/in/gleisond/)
